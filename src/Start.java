@@ -7,5 +7,7 @@ public class Start {
 
 
         fender.soundSamples();
+        esp.soundSamples();
+        gibson.soundSamples();
     }
 }
